@@ -24,7 +24,7 @@
   
   "jobs": [
     {
-      "userId": 1,
+      "usersId": 1,
       "job_name": "DEVsss",
       "period": "meio periodo",
       "work_type": "home office",
