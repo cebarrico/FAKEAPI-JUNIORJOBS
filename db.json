@@ -1,37 +1,53 @@
 {
   "users": [
     {
-      "email": "devjob2@mail.com",
+      "email": "devjob@mail.com",
       "password": "$2a$10$r6dyovbcJRsUSfNkj2GmR.osNpDlE5P1IG/SXb3sO0F0c01yoGGt.",
-      "name": "testecelso",
+      "name": "DevJob",
       "documentation": "868446848",
-      "avatar": "trocou.jpg",
-      "type": "company",
-      
+      "avatar": "https://devminingcompany.com/wp-content/uploads/2019/05/Dev_Group_Logo-CDR-File-JPG.jpg",
+      "type": "company",      
       "id": 1
     },
     {
-      "email": "celso@mail.com",
+      "email": "simplydev@mail.com",
       "password": "$2a$10$xACEIHJcKuiRY6qiqvNSruvyDRy9lDTqQ6KG0kQ8g1I07jUDUUhbS",
-      "name": "celso",
+      "name": "SimplyDev",
       "documentation": "868446848",
-      "avatar": "foto.jpg",
-      "type": "dev", 
-        
+      "avatar": "https://www.devitpl.com/wp-content/uploads/DEVIT-logo-1.png",
+      "type": "company",        
       "id": 2
+    },
+    {
+      "email": "junior@mail.com",
+      "password": "$2a$10$xACEIHJcKuiRY6qiqvNSruvyDRy9lDTqQ6KG0kQ8g1I07jUDUUhbS",
+      "name": "SimplyDev",
+      "documentation": "868446848",
+      "avatar": "https://www.devitpl.com/wp-content/uploads/DEVIT-logo-1.png",
+      "type": "Dev",        
+      "id": 3
     }
   ],
   
   "jobs": [
     {
       "usersId": 1,
-      "job_name": "DEVsss",
-      "period": "meio periodo",
-      "work_type": "home office",
-      "description": "ra dev junior  html",
-      "requirements": "saber css, html",
-      "responsabilitys": "ir atuar no front de webdeveloper",
+      "job_name": "Desenvolvedor Web Front End",
+      "period": "Integral",
+      "work_type": "Home Office",
+      "description": "Vaga para desenvolvedor web, front end, nao necessario experiencia, precisamos de juniores.",
+      "requirements": "Saber CSS,Html,JavaScript , React, GIT",
+      "responsabilitys": "Implemetar features novas, Arrumar pequenos bugs.",
       "id": 1
+    },  {
+      "usersId": 2,
+      "job_name": "Desenvolvedor Web Back End",
+      "period": "Integral",
+      "work_type": "Home Office",
+      "description": "Desenvolvedor Back End sem experiencia.",
+      "requirements": "Saber CSS,Html,JavaScript , React, Node.js, SQL",
+      "responsabilitys": "Monitorar bancos de dados, Arrumar pequenos bugs.",
+      "id": 2
     }
   ]
 }
