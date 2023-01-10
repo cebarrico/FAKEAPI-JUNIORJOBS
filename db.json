@@ -38,7 +38,7 @@
       "description": "Vaga para desenvolvedor web, front end, nao necessario experiencia, precisamos de juniores.",
       "requirements": "Saber CSS,Html,JavaScript , React, GIT",
       "responsabilitys": "Implemetar features novas, Arrumar pequenos bugs.",
-      "candidate":[{
+      "candidates":[{
         "email": "junior@mail.com",        
         "name": "Junior ",
         "documentation": "22222222222",
