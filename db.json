@@ -4,7 +4,7 @@
       "email": "devjob@mail.com",
       "password": "$2a$10$r6dyovbcJRsUSfNkj2GmR.osNpDlE5P1IG/SXb3sO0F0c01yoGGt.",
       "name": "DevJob",
-      "documentation": "868446848",
+      "documentation": "86844684800",
       "avatar": "https://devminingcompany.com/wp-content/uploads/2019/05/Dev_Group_Logo-CDR-File-JPG.jpg",
       "type": "company",      
       "id": 1
@@ -13,7 +13,7 @@
       "email": "simplydev@mail.com",
       "password": "$2a$10$xACEIHJcKuiRY6qiqvNSruvyDRy9lDTqQ6KG0kQ8g1I07jUDUUhbS",
       "name": "SimplyDev",
-      "documentation": "868446848",
+      "documentation": "86844684822",
       "avatar": "https://www.devitpl.com/wp-content/uploads/DEVIT-logo-1.png",
       "type": "company",        
       "id": 2
@@ -21,9 +21,9 @@
     {
       "email": "junior@mail.com",
       "password": "$2a$10$xACEIHJcKuiRY6qiqvNSruvyDRy9lDTqQ6KG0kQ8g1I07jUDUUhbS",
-      "name": "SimplyDev",
-      "documentation": "868446848",
-      "avatar": "https://www.devitpl.com/wp-content/uploads/DEVIT-logo-1.png",
+      "name": "Junior ",
+      "documentation": "22222222222",
+      "avatar": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/D64OUNCBGBMJDE7PYTDAYDDKB4.jpg",
       "type": "Dev",        
       "id": 3
     }
