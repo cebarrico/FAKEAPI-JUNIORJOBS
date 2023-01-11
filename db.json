@@ -6,7 +6,9 @@
       "name": "DevJob",
       "documentation": "86844684800",
       "avatar": "https://devminingcompany.com/wp-content/uploads/2019/05/Dev_Group_Logo-CDR-File-JPG.jpg",
-      "type": "company",      
+      "type": "company",
+      "site":"https://www.devjob.com.br",
+      "locality":"Santos-SP",     
       "id": 1
     },
     {
@@ -15,7 +17,9 @@
       "name": "SimplyDev",
       "documentation": "86844684822",
       "avatar": "https://www.devitpl.com/wp-content/uploads/DEVIT-logo-1.png",
-      "type": "company",        
+      "type": "company",
+      "site":"https://www.simplydev.com.br",
+      "locality":"Santos-SP",         
       "id": 2
     },
     {
@@ -38,6 +42,7 @@
       "description": "Vaga para desenvolvedor web, front end, nao necessario experiencia, precisamos de juniores.",
       "requirements": "Saber CSS,Html,JavaScript , React, GIT",
       "responsabilitys": "Implemetar features novas, Arrumar pequenos bugs.",
+      "locality":"Santos-SP", 
       "candidates":[{
         "email": "junior@mail.com",        
         "name": "Junior ",
@@ -55,7 +60,9 @@
       "description": "Desenvolvedor Back End sem experiencia.",
       "requirements": "Saber CSS,Html,JavaScript , React, Node.js, SQL",
       "responsabilitys": "Monitorar bancos de dados SQL, Arrumar pequenos bugs.",
+      "locality":"Santos-SP", 
       "id": 2
     }
   ]
 }
+
