@@ -6,7 +6,7 @@
       "name": "DevJob",
       "documentation": "86844684800",
       "avatar": "https://devminingcompany.com/wp-content/uploads/2019/05/Dev_Group_Logo-CDR-File-JPG.jpg",
-      "type": "company",
+      "type": "Company",
       "site":"https://www.devjob.com.br",
       "locality":"Santos-SP",     
       "id": 1
@@ -16,11 +16,21 @@
       "password": "$2a$10$xACEIHJcKuiRY6qiqvNSruvyDRy9lDTqQ6KG0kQ8g1I07jUDUUhbS",
       "name": "SimplyDev",
       "documentation": "86844684822",
-      "avatar": "https://www.devitpl.com/wp-content/uploads/DEVIT-logo-1.png",
-      "type": "company",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/009/628/570/original/dev-logo-dev-letter-dev-letter-logo-design-initials-dev-logo-linked-with-circle-and-uppercase-monogram-logo-dev-typography-for-technology-business-and-real-estate-brand-vector.jpg",
+      "type": "Company",
       "site":"https://www.simplydev.com.br",
-      "locality":"Santos-SP",         
+      "locality":"Belo Horizonte-MG",         
       "id": 2
+    },{
+      "email": "techjob@mail.com",
+      "password": "$2a$10$xACEIHJcKuiRY6qiqvNSruvyDRy9lDTqQ6KG0kQ8g1I07jUDUUhbS",
+      "name": "TechJob",
+      "documentation": "86844684833",
+      "avatar": "https://t4.ftcdn.net/jpg/02/56/94/73/360_F_256947386_VJGb69dBUeVGRBJEV56nnan2N1hMA8CW.jpg",
+      "type": "Company",
+      "site":"https://www.techjob.com.br",
+      "locality":"Porto Alegre -RS",         
+      "id": 3
     },
     {
       "email": "junior@mail.com",
@@ -29,19 +39,19 @@
       "documentation": "22222222222",
       "avatar": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/D64OUNCBGBMJDE7PYTDAYDDKB4.jpg",
       "type": "Dev",        
-      "id": 3
+      "id": 4
     }
   ],
   
   "jobs": [
     {
       "usersId": 1,
-      "job_name": "Desenvolvedor Web Front End",
+      "job_name": "Desenvolvedor(a) Front-end REACT",
       "period": "Integral",
       "work_type": "Home Office",
-      "description": "Vaga para desenvolveedor web, front end, nao necessario experiencia, precisamos de juniores.",
-      "requirements": "Saber CSS,Html,JavaScript , React, GIT",
-      "responsabilitys": "Implemetar features novas, Arrumar pequenos bugs.",
+      "description": "Vaga para desenvolveedor web, front end, nao necessario experiencia, precisamos de juniores. Estamos recrutando os melhores talentos para atuar com o time de DEV da DevJobs.",
+      "requirements": "* HTML5, CSS3 e JavaScript. * Conhecimento em Vue.js. * Conhecimentos sólidos de HTML 5 e semântica.* Pré-processadores como SASS, LESS, Stylus ou Pós-processador PostCSS.* Controle de Versão (GIT). * Inglês é um diferencial. * Ser comunicativo(a) e dinâmico(a).",
+      "responsabilitys": " O candidato a vaga atuará no desenvolvimento de interfaces de sistemas SPA, consumo de APIs do backend, integração com outras ferramentas, desenvolvimento de layout e manutenção de sites e sistemas (FrontEnd).",
       "locality":"Santos-SP", 
       "candidates":[{
         "email": "junior@mail.com",        
@@ -54,14 +64,54 @@
       "id": 1
     },  {
       "usersId": 2,
-      "job_name": "Desenvolvedor Web Back End",
+      "job_name": "Desenvolvedor(a) .Net Full Stack",
       "period": "Integral",
       "work_type": "Home Office",
-      "description": "Desenvolvedor Back End sem experiencia.",
-      "requirements": "Saber CSS,Html,JavaScript , React, Node.js, SQL",
-      "responsabilitys": "Monitorar bancos de dados SQL, Arrumar pequenos bugs.",
-      "locality":"Santos-SP", 
+      "description": "Nós estamos buscando você, que também deseja embarcar nessa jornada junto com a gente!",
+      "requirements": "Conhecimento em lógica de programação e SQL. Conhecimento de Orientação a Objetos. Conhecimento em C# e Asp.Net. Conhecimento de HTML, CSS e Javascript Diferenciais",
+      "responsabilitys": "Seu principal papel será auxiliar como apoio na nossa área de desenvolvimento, em atividades do dia a dia, além claro de ganhar muito conhecimento e experiência sobre as atividades propostas no mercado de trabalho. Portanto, se você quer aprender atividades do nosso DEV, é amante da inovação, tem curiosidade e gosta de ajudar a desenvolver, você tem uma super chance de fazer parte do nosso time.",
+      "locality":"Belo Horizonte-MG", 
       "id": 2
+    },{
+      "usersId": 3,
+      "job_name": "Desenvolvedor(a) PHP - Júnior (Presencial)",
+      "period": "Integral",
+      "work_type": "Presencial",
+      "description": "Nós estamos buscando você, que também deseja embarcar nessa jornada junto com a gente!",
+      "requirements": "Morar em Porto Alegre ou cidade próxima com fácil deslocamento até a empresa. Atento à cultura e os processos organizacionais da empresa. Conhecimento em orientação a objetos. Conhecimentos em bancos de dados MySQL e PostgreSQL. Experiência com integrações entre sistemas através de API’s",
+      "responsabilitys": "Realizar a manutenção e criação de novas funcionalidades; Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas; Desenvolvimento e manutenção de aplicações web; Desenvolver e sustentar integrações; Aplicar melhores práticas de documentação de código desenvolvido;",
+      "locality":"Porto Alegre -RS", 
+      "id": 3
+    },{
+      "usersId": 3,
+      "job_name": "Desenvolvedor(a) Full Stack Júnior",
+      "period": "Integral",
+      "work_type": "Presencial",
+      "description": "Nós estamos buscando você, que também deseja embarcar nessa jornada junto com a gente!",
+      "requirements": "Morar em Porto Alegre ou cidade próxima com fácil deslocamento até a empresa. HTML / CSS / Javascript / Jquery / PHP. Pré- processador CSS Experiência com integrações entre sistemas através de API’s",
+      "responsabilitys": "evantamento de informações e recursos necessários para a implantação ou alteração dos sistemas; Planejar e criar sistemas, interfaces e projetos web escaláveis; Otimizar a arquitetura e interfaces para melhorar a performance, garantir a boa usabilidade e alta disponibilidade; Realizar testes de carga, identificar gargalos e otimizar o desempenho de sistemas;",
+      "locality":"Porto Alegre -RS", 
+      "id": 4
+    },{
+      "usersId": 1,
+      "job_name": "DEV Back-End Jr.",
+      "period": "Integral",
+      "work_type": "Home Office",
+      "description": "Os desenvolvedores da DevJobs são responsáveis por criar e manter aplicações para clientes internos e externos, prover soluções escaláveis, resilientes e altamente disponíveis que sustentem picos de acesso além de atuar como referência técnica e tutores de outros desenvolvedores.",
+      "requirements": "Tenha conhecimento em Node.js, mongoDB e Javascript, conhecer princípios do event loop e aplicaçõesassíncronas; Saiba controle de versão com Git; Tenha vontade de aprender CI/CD e cultura de testes; ",
+      "responsabilitys": "Desenvolver aplicações em React, Node.js, Go, Docker; Desenvolver APIs em REST; Criar padrões estruturais e de código; Criar, evoluir e manter sistemas de monitoramento; Realizar pair programming com o time técnico; Colaborar com times multidisciplinares durante o desenvolvimento de produtos digitais.",
+      "locality":"Santos-SP", 
+      "id": 5
+    },{
+      "usersId": 2,
+      "job_name": "Desenvolvedor(a) React Native - Júnior",
+      "period": "Integral",
+      "work_type": "Home Office",
+      "description": "Desenvolvemos soluções para todos os tipos de empresas, com foco na internet, desde sites responsivos até sistemas de administração complexos e redes sociais.",
+      "requirements": "Conhecimento nas linguagens informadas; Conhecimento de ferramentas de versionamento de código (GIT,...); Conhecimento em metodologias ágeis (Scrum/Kanban); Habilidades interpessoais de escrita e de comunicação verbal;",
+      "responsabilitys": "Desenvolvimento e manutenção de aplicações mobile; Realizar a manutenção e criação de novas funcionalidades; Fazer o deployment para as plataformas Google Play e Apple Store; Aplicar melhores práticas de documentação de código desenvolvido; Desenvolver e sustentar integrações; Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas;",
+      "locality":"Porto Alegre -RS", 
+      "id": 6
     }
   ]
 }
