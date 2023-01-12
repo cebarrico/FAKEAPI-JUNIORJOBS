@@ -55,7 +55,8 @@
       "description": "Vaga para desenvolvedor web, front end, nao necessario experiencia, precisamos de juniores. Estamos recrutando os melhores talentos para atuar com o time de DEV da DevJobs.",
       "requirements": "* HTML5, CSS3 e JavaScript. * Conhecimento em Vue.js. * Conhecimentos sólidos de HTML 5 e semântica.* Pré-processadores como SASS, LESS, Stylus ou Pós-processador PostCSS.* Controle de Versão (GIT). * Inglês é um diferencial. * Ser comunicativo(a) e dinâmico(a).",
       "responsabilitys": " O candidato a vaga atuará no desenvolvimento de interfaces de sistemas SPA, consumo de APIs do backend, integração com outras ferramentas, desenvolvimento de layout e manutenção de sites e sistemas (FrontEnd).",
-      "locality":"Santos-SP",      
+      "locality":"Santos-SP",
+      "candidates":[],      
       "id": 1
     },  {
       "usersId": 2,
@@ -65,7 +66,8 @@
       "description": "Nós estamos buscando você, que também deseja embarcar nessa jornada junto com a gente!",
       "requirements": "Conhecimento em lógica de programação e SQL. Conhecimento de Orientação a Objetos. Conhecimento em C# e Asp.Net. Conhecimento de HTML, CSS e Javascript Diferenciais",
       "responsabilitys": "Seu principal papel será auxiliar como apoio na nossa área de desenvolvimento, em atividades do dia a dia, além claro de ganhar muito conhecimento e experiência sobre as atividades propostas no mercado de trabalho. Portanto, se você quer aprender atividades do nosso DEV, é amante da inovação, tem curiosidade e gosta de ajudar a desenvolver, você tem uma super chance de fazer parte do nosso time.",
-      "locality":"Belo Horizonte-MG", 
+      "locality":"Belo Horizonte-MG",
+      "candidates":[], 
       "id": 2
     },{
       "usersId": 3,
@@ -75,7 +77,8 @@
       "description": "Nós estamos buscando você, que também deseja embarcar nessa jornada junto com a gente!",
       "requirements": "Morar em Porto Alegre ou cidade próxima com fácil deslocamento até a empresa. Atento à cultura e os processos organizacionais da empresa. Conhecimento em orientação a objetos. Conhecimentos em bancos de dados MySQL e PostgreSQL. Experiência com integrações entre sistemas através de API’s",
       "responsabilitys": "Realizar a manutenção e criação de novas funcionalidades; Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas; Desenvolvimento e manutenção de aplicações web; Desenvolver e sustentar integrações; Aplicar melhores práticas de documentação de código desenvolvido;",
-      "locality":"Porto Alegre -RS", 
+      "locality":"Porto Alegre -RS",
+      "candidates":[], 
       "id": 3
     },{
       "usersId": 3,
@@ -85,7 +88,8 @@
       "description": "Nós estamos buscando você, que também deseja embarcar nessa jornada junto com a gente!",
       "requirements": "Morar em Porto Alegre ou cidade próxima com fácil deslocamento até a empresa. HTML / CSS / Javascript / Jquery / PHP. Pré- processador CSS Experiência com integrações entre sistemas através de API’s",
       "responsabilitys": "evantamento de informações e recursos necessários para a implantação ou alteração dos sistemas; Planejar e criar sistemas, interfaces e projetos web escaláveis; Otimizar a arquitetura e interfaces para melhorar a performance, garantir a boa usabilidade e alta disponibilidade; Realizar testes de carga, identificar gargalos e otimizar o desempenho de sistemas;",
-      "locality":"Porto Alegre -RS", 
+      "locality":"Porto Alegre -RS",
+      "candidates":[], 
       "id": 4
     },{
       "usersId": 2,
@@ -95,7 +99,8 @@
       "description": "Desenvolvemos soluções para todos os tipos de empresas, com foco na internet, desde sites responsivos até sistemas de administração complexos e redes sociais.",
       "requirements": "Conhecimento nas linguagens informadas; Conhecimento de ferramentas de versionamento de código (GIT,...); Conhecimento em metodologias ágeis (Scrum/Kanban); Habilidades interpessoais de escrita e de comunicação verbal;",
       "responsabilitys": "Desenvolvimento e manutenção de aplicações mobile; Realizar a manutenção e criação de novas funcionalidades; Fazer o deployment para as plataformas Google Play e Apple Store; Aplicar melhores práticas de documentação de código desenvolvido; Desenvolver e sustentar integrações; Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas;",
-      "locality":"Porto Alegre -RS", 
+      "locality":"Porto Alegre -RS",
+      "candidates":[], 
       "id": 5
     }
   ]
