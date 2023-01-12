@@ -61,6 +61,10 @@
             }
       ]
     }
+      ]
+    }
+        
+    
   ],
   
   "jobs": [
@@ -87,7 +91,7 @@
       "job_name": "Desenvolvedor(a) .Net Full Stack",
       "period": "Integral",
       "work_type": "Home Office",
-      "description": "Nós estamos buscando você, que também deseja embarcar nessa jornada junto conosco!",
+      "description": "Nós estamos buscando você, que também deseja embarcar nessa jornada junto com a gente!",
       "requirements": "Conhecimento em lógica de programação e SQL. Conhecimento de Orientação a Objetos. Conhecimento em C# e Asp.Net. Conhecimento de HTML, CSS e Javascript Diferenciais",
       "responsabilitys": "Seu principal papel será auxiliar como apoio na nossa área de desenvolvimento, em atividades do dia a dia, além claro de ganhar muito conhecimento e experiência sobre as atividades propostas no mercado de trabalho. Portanto, se você quer aprender atividades do nosso DEV, é amante da inovação, tem curiosidade e gosta de ajudar a desenvolver, você tem uma super chance de fazer parte do nosso time.",
       "locality":"Belo Horizonte-MG", 
