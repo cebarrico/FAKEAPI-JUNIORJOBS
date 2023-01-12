@@ -39,29 +39,8 @@
       "documentation": "22222222222",
       "avatar": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/D64OUNCBGBMJDE7PYTDAYDDKB4.jpg",
       "type": "Dev",        
-      "id": 4,
-      "apply_jobs":[
-        {
-          "usersId": 1,
-          "job_name": "Desenvolvedor(a) Front-end REACT",
-          "period": "Integral",
-          "work_type": "Home Office",
-          "description": "Vaga para desenvolvedor web, front end, nao necessario experiencia, precisamos de juniores. Estamos recrutando os melhores talentos para atuar com o time de DEV da DevJobs.",
-          "requirements": "* HTML5, CSS3 e JavaScript. * Conhecimento em Vue.js. * Conhecimentos sólidos de HTML 5 e semântica.* Pré-processadores como SASS, LESS, Stylus ou Pós-processador PostCSS.* Controle de Versão (GIT). * Inglês é um diferencial. * Ser comunicativo(a) e dinâmico(a).",
-          "responsabilitys": " O candidato a vaga atuará no desenvolvimento de interfaces de sistemas SPA, consumo de APIs do backend, integração com outras ferramentas, desenvolvimento de layout e manutenção de sites e sistemas (FrontEnd).",
-          "locality": "Santos-SP",
-          "candidates": [
-            {
-              "email": "junior@mail.com",
-              "name": "Junior ",
-              "documentation": "22222222222",
-              "avatar": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/D64OUNCBGBMJDE7PYTDAYDDKB4.jpg",
-              "type": "Dev",
-              "id": 3
-            }
-      ]
-    }
-      ]
+      "id": 4
+      
     }
         
     
@@ -76,15 +55,7 @@
       "description": "Vaga para desenvolvedor web, front end, nao necessario experiencia, precisamos de juniores. Estamos recrutando os melhores talentos para atuar com o time de DEV da DevJobs.",
       "requirements": "* HTML5, CSS3 e JavaScript. * Conhecimento em Vue.js. * Conhecimentos sólidos de HTML 5 e semântica.* Pré-processadores como SASS, LESS, Stylus ou Pós-processador PostCSS.* Controle de Versão (GIT). * Inglês é um diferencial. * Ser comunicativo(a) e dinâmico(a).",
       "responsabilitys": " O candidato a vaga atuará no desenvolvimento de interfaces de sistemas SPA, consumo de APIs do backend, integração com outras ferramentas, desenvolvimento de layout e manutenção de sites e sistemas (FrontEnd).",
-      "locality":"Santos-SP", 
-      "candidates":[{
-        "email": "junior@mail.com",        
-        "name": "Junior ",
-        "documentation": "22222222222",
-        "avatar": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/D64OUNCBGBMJDE7PYTDAYDDKB4.jpg",
-        "type": "Dev",        
-        "id": 3
-      }],
+      "locality":"Santos-SP",      
       "id": 1
     },  {
       "usersId": 2,
