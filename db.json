@@ -88,16 +88,6 @@
       "locality":"Porto Alegre -RS", 
       "id": 4
     },{
-      "usersId": 1,
-      "job_name": "DEV Back-End Jr.",
-      "period": "Integral",
-      "work_type": "Home Office",
-      "description": "Os desenvolvedores da DevJobs são responsáveis por criar e manter aplicações para clientes internos e externos, prover soluções escaláveis, resilientes e altamente disponíveis que sustentem picos de acesso além de atuar como referência técnica e tutores de outros desenvolvedores.",
-      "requirements": "Tenha conhecimento em Node.js, mongoDB e Javascript, conhecer princípios do event loop e aplicaçõesassíncronas; Saiba controle de versão com Git; Tenha vontade de aprender CI/CD e cultura de testes; ",
-      "responsabilitys": "Desenvolver aplicações em React, Node.js, Go, Docker; Desenvolver APIs em REST; Criar padrões estruturais e de código; Criar, evoluir e manter sistemas de monitoramento; Realizar pair programming com o time técnico; Colaborar com times multidisciplinares durante o desenvolvimento de produtos digitais.",
-      "locality":"Santos-SP", 
-      "id": 5
-    },{
       "usersId": 2,
       "job_name": "Desenvolvedor(a) React Native - Júnior",
       "period": "Integral",
@@ -106,7 +96,7 @@
       "requirements": "Conhecimento nas linguagens informadas; Conhecimento de ferramentas de versionamento de código (GIT,...); Conhecimento em metodologias ágeis (Scrum/Kanban); Habilidades interpessoais de escrita e de comunicação verbal;",
       "responsabilitys": "Desenvolvimento e manutenção de aplicações mobile; Realizar a manutenção e criação de novas funcionalidades; Fazer o deployment para as plataformas Google Play e Apple Store; Aplicar melhores práticas de documentação de código desenvolvido; Desenvolver e sustentar integrações; Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas;",
       "locality":"Porto Alegre -RS", 
-      "id": 6
+      "id": 5
     }
   ]
 }
